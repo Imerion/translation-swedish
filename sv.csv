@@ -1,89 +1,88 @@
 OVERLAYS
-    ">Saving","> Shranjujem"
-    ">Checking for updates",">Preverjam posodobitve"
+    ">Saving","> Sparar"
+    ">Checking for updates",">Letar efter uppdateringar"
 
 
 BUTTONS
-    "> Settings","> Nastavitve"
+    "> Settings","> Inställningar"
 
 
 MENU ITEMS
-    ">Current page",">Trenutna stran"
-    ">Menu",">Meni"
-    ">Files",">Datoteke"
-    ">Themes",">Teme
-    ">Plugins",">Vtičniki"
-    ">Security",">Varnost"
+    ">Current page",">Nuvarande sida"
+    ">Menu",">Meny"
+    ">Files",">Filer"
+    ">Themes",">Teman"
+    ">Plugins",">Tillägg"
+    ">Security",">Säkerhet"
 
 
 CURRENT PAGE
-    ">Page title",">Ime strani"
-    ">Page keywords",">Ključne besede"
-    ">Page description",">Opis"
-    "> Delete page","> Izbriši stran"
-    "return confirm\('Delete (.*?)\?'\)","return confirm('Izbris $1?')"
+    ">Page title",">Titel"
+    ">Page keywords",">Nyckelord"
+    ">Page description",">Beskrivning"
+    "> Delete page","> Ta bort sida"
+    "return confirm\('Delete (.*?)\?'\)","return confirm('Ta bort $1?')"
 
 
 MENU
-    ">Website title","> Naslov strani"
-    ">Page to display on homepage","> Stran za prikaz na domači strani"
-    ">visit",">obišči"
-    "> Add page","> Dodaj stran"
+    ">Website title","> Webbplatsens titel"
+    ">Page to display on homepage","> Sida att visa på startsidan"
+    ">visit",">besök"
+    "> Add page","> Lägg till sida"
 
 
 FILES
-    ">Upload","> Naloži"
-    ">Delete files","> Izbris datotek"
+    ">Upload","> Ladda upp"
+    ">Delete files","> Ta bort filer"
 
 
 THEMES AND PLUGINS
-    "> Check for updates","> Preveri posodobitve"
-    "return confirm\('Remove (.*?)\?'\)","return confirm('Izbris $1?')"
-    ">Active",">V uporabi"
-    "return confirm\('Activate (.*?) theme\?'\)","return confirm('Aktiviraj $1?')"
-    "> Activate","> Aktiviraj"
-    "> More info","> Več informacij"
-    "> Install","> Namesti"
-    ">Installed version:",">Nameščena verzija:"
-    ">Custom repository",">Odlagališče po meri (repository)"
-    "Enter URL to custom repository","Vnesi URL za odlagališče"
-    "> Add", "> Dodaj"
-    "> Read more about custom repositories",">Preberi več o odlagališčih po meri"
+    "> Check for updates","> Leta efter uppdateringar"
+    "return confirm\('Remove (.*?)\?'\)","return confirm('Ta bort $1?')"
+    ">Active",">Aktiv"
+    "return confirm\('Activate (.*?) theme\?'\)","return confirm('Aktivera $1?')"
+    "> Activate","> Aktivera"
+    "> More info","> Mer information"
+    "> Install","> Installera"
+    ">Installed version:",">Installerad version:"
+    ">Custom repository",">Eget förråd (repository)"
+    "Enter URL to custom repository","Skriv in URL till eget förråd"
+    "> Add", "> Lägg till"
+    "> Read more about custom repositories",">Läs mer om egna förråd"
 
 
 SECURITY
-    ">Admin login URL","> URL/povezava za vpis"
-    ">Save your login URL to log in to your website next time:",">Shrani svojo URL povezavo za ponoven vpis z admin računom"
-    ">Password",">Geslo"
-    "Old password","Staro geslo"
-    "New password","Novo geslo"
-    "> Change password","> Spremeni geslo"
+    ">Admin login URL","> URL för administratörsinloggning"
+    ">Save your login URL to log in to your website next time:",">Spara din URL för inloggning, som sedan används för att logga in nästa gång:"
+    ">Password",">Lösenord"
+    "Old password","Gammalt lösenord"
+    "New password","Nytt lösenord"
+    "> Change password","> Ändra lösenord"
 
-    "> How to restore backup","> Kako obnoviti varnostno kopijo"
-    ">Improved security \(Apache only\)",">Dodatna varnost (samo Apache serverji)"
-    ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.",">HTTPS preusmeritev, 30-dnevno keširanje, iframi dovoljeni samo iz istega izvora."
-    ">ON \(warning: may break your website\)",">Vklop (lahko zlomi vaše spletno mesto)"
-    ">OFF \(reset htaccess to default\)",">Izklop (resetiraj dodatno varnost)"
-    "> Read more before enabling","> Preberi več pred vklopom"
-    ">Backup","> Varnostna kopija strani"
-    "> Backup website","> Varnostna kopija"
-    ">Last 5 logins",">Zadnjih 5 vpisov"
+    "> How to restore backup","> Hur man återställer en säkerhetskopia"
+    ">Improved security \(Apache only\)",">Förbättrad säkerhet (endast Apache)"
+    ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.",">HTTPS-omdirigering, 30 dagars cache, iframe tillåts bara från samma ursprung, skydd mot mime-type sniffing."    ">ON \(warning: may break your website\)",">Vklop (lahko zlomi vaše spletno mesto)"
+    ">OFF \(reset htaccess to default\)",">Av (återställ htaccess till standard)"
+    "> Read more before enabling","> Läs mer innan du aktiverar"
+    ">Backup","> Säkerhetskopia"
+    "> Backup website","> Säkerhetskopiera sidan"
+    ">Last 5 logins",">Senaste 5 inloggningarna"
 
 
 STATISTICS
-    ">Statistics",">Statistika"
-    ">Today",">Danes"
-    ">This week",">Ta teden"
-    ">Most popular page",">Najbolj popularna stran"
-    ">Pageviews last two weeks",">Št. ogledov v preteklih 2 tednih"
-    ">Sessions last two weeks",">Št. sej v preteklih 2 tednih"
-    ">Sessions",">Št. Sej"
-    ">Pageviews",">Ogledov"
+    ">Statistics",">Statistik"
+    ">Today",">Idag"
+    ">This week",">Den här veckan"
+    ">Most popular page",">Populäraste sidan"
+    ">Pageviews last two weeks",">Sidvisningar de senaste två veckorna"
+    ">Sessions last two weeks",">Sessioner de senaste två veckorna"
+    ">Sessions",">Sessioner"
+    ">Pageviews",">Sidvisningar"
 
 
 FOOTER
-    ">News",">Novice"
+    ">News",">Nyheter"
     ">Community",">Forum"
-    ">Docs",">Dokumentacija"
-    ">Donate",">Doniraj"
-    ">Shop\/Merch",">Shop"
+    ">Docs",">Dokumentation"
+    ">Donate",">Donera"
+    ">Shop\/Merch",">Butik"
